@@ -1,0 +1,15 @@
+body{
+    font-family: Verdana;
+    text-align: center;
+}
+#buttonOne{
+    font-size: 3em;
+    padding: 5px 25px;
+    border-radius: 5px;
+}
+#labelOne{
+    font-size: 3em;
+}
+#mySubmit{
+    font-size: 1em;
+}
